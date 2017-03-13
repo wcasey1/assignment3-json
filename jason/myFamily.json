@@ -12,25 +12,7 @@
     "FamilyTree": {
       "position": ["Head"]
     }
-  },
-  {
-    "name": "Ian",
-    "familyMember" : "Brother",
-    "FamilyTree": {
-      "position": ["Child"]
-    }
-  },
-  {  "name": "Gail",
-    "familyMember" : "Sister",
-    "FamilyTree": {
-      "position": ["Child"]
-    }
-  },  
-  {  "name": "Wayne",
-    "familyMember" : "Brother",
-    "FamilyTree": {
-      "position": ["Child"]
-   } 
   }
+  
 ]
 //(got it from YouTube 2017)
